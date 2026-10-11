@@ -1,0 +1,6 @@
+{
+  "name": "Term & Privacy Policy Generator",
+  "description": "Generator Kebijakan Privasi & Syarat Ketentuan untuk aplikasi dan web dengan integrasi Firebase dan otomatis simpan ke GitHub repository.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

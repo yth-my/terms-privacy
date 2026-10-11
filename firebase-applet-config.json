@@ -1,0 +1,12 @@
+{
+  "projectId": "terms-privacy-generator",
+  "appId": "1:314398883431:web:ea63edafa614608bf91ec2",
+  "apiKey": "AIzaSyB7oqp9rPZSgikcGPbAAeuJPPUferCeu8s",
+  "authDomain": "terms-privacy-generator.firebaseapp.com",
+  "firestoreDatabaseId": "(default)",
+  "storageBucket": "terms-privacy-generator.firebasestorage.app",
+  "messagingSenderId": "314398883431",
+  "measurementId": "",
+  "oAuthClientId": "",
+  "recaptchaSiteKey": ""
+}
